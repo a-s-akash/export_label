@@ -26,7 +26,7 @@ const FormComponent = () => {
   };
 
   const inputCoordinates = {
-    'parcel_type': { x: '1%', y: '1%', width: '45%', height: '15%' },
+    'parcel_type': { x: '10%', y: '1%', width: '45%', height: '15%' },
     'parcel_items': { x: '47%', y: '1%', width: '52%', height: '15%' },
     'from_location': { x: '1%', y: '59%', width: '35%', height: '40%' },
     'to_location': { x: '39%', y: '27%', width: '60%', height: '72%' },

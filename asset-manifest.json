@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/export_label/static/css/main.359dbe60.css",
+    "main.js": "/export_label/static/js/main.68a5572a.js",
+    "static/js/787.c8a2975e.chunk.js": "/export_label/static/js/787.c8a2975e.chunk.js",
+    "static/media/OPTICopperplate.ttf": "/export_label/static/media/OPTICopperplate.81363bbf460102ef91d6.ttf",
+    "index.html": "/export_label/index.html",
+    "main.359dbe60.css.map": "/export_label/static/css/main.359dbe60.css.map",
+    "main.68a5572a.js.map": "/export_label/static/js/main.68a5572a.js.map",
+    "787.c8a2975e.chunk.js.map": "/export_label/static/js/787.c8a2975e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359dbe60.css",
+    "static/js/main.68a5572a.js"
+  ]
+}

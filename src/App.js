@@ -1,10 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
+import BoxComponent from './box_component';
 
 function App() {
-  return (
-    <h1>good bye haha</h1>
-  );
+  return (<BoxComponent></BoxComponent>);
 }
 
 export default App;
